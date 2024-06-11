@@ -69,6 +69,7 @@ def main():
     st.sidebar.info(markdown)
 
 
+
     # Handle Chat and Update Modes
     chat_input = st.chat_input("Enter your code-switched text here")
     # Placeholder for additional functionality
